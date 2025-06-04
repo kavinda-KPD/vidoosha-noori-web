@@ -86,7 +86,7 @@ const Footer = () => {
 
                 <div className="border-t border-earth-700 mt-8 pt-8 text-center">
                     <p className="text-earth-300">
-                        © 2024 Pure Jaggery. All rights reserved. | Made with ❤️ for nature lovers
+                        © 2025 Pure Jaggery. All rights reserved.
                     </p>
                 </div>
             </div>
